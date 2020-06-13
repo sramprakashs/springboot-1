@@ -67,14 +67,14 @@
 	<distributionManagement>
            <snapshotRepository>
               <id>nexus</id>
-              <url>http://13.233.35.82:8081/nexus/content/repositories/snapshots</url>
+              <url>http://15.206.186.167:8081/nexus/content/repositories/snapshots</url>
            </snapshotRepository>
          </distributionManagement>
 	
 	<!--distributionManagement>
           <snapshotRepository>
             <id>artifactory</id>
-            <url>http://15.206.146.220:8081/artifactory/libs-snapshot-local</url>
+            <url>http://15.206.186.167:8081/artifactory/libs-snapshot-local</url>
           </snapshotRepository>
         </distributionManagement>-->
 
